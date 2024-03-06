@@ -10,4 +10,5 @@ A website where I will be providing 10 interview questions to help you get one s
 8. How many hours a week will the robot need to be working for?
 9. Will the robot need to be working with any knives?
 10. How will you treat the robot once matinence is required?
-   
+   	![alt text](![Screenshot (1)](https://github.com/danielgebar/Tuna-fish-sandwich-interview-s/assets/160678227/02872e20-c639-4945-b36e-9dda7b7b28c6)
+)

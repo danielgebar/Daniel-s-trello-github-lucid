@@ -9,5 +9,5 @@ A website where I will be providing 10 interview questions to help you get one s
 7. In what way will you assure that the robot is always charged before use?
 8. How many hours a week will the robot need to be working for?
 9. Will the robot need to be working with any knives?
-10. How will you treat the robot once maitinence is required?
+10. How will you treat the robot once matinence is required?
    
